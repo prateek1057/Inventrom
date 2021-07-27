@@ -1,0 +1,118 @@
+.a img{
+	position:relative;
+	left:300px;
+	top:5px;
+}
+.a{
+	position:fixed;
+	top:0px;
+	width:100%;
+	z-index:1;
+	background-color:#ffffff;
+	
+	
+}
+.a nav{
+	
+	position:relative;
+	float:right;
+	top:20px;
+	right:300px;
+}
+nav a{
+	color:#0a0a0a;
+	font-size:25px;
+	margin:15px;
+}
+.image{
+	background-image:url("image.png");
+	height:800px;
+	background-size:cover;
+	width:100%;
+	min-height:100%;
+	
+}
+.text{
+	position:relative;
+	text-align:center;
+	top:380px;
+	color:black;
+	font-size:20px;
+}
+.img1{
+	
+	position:relative;
+	left:400px;
+	bottom:35px;
+	display:inline-block;
+}
+.img2{
+	
+	position:relative;
+	left:500px;
+	display:inline-block;
+}
+.about{height:470px;}
+.awards h3,p{
+	text-align:center;
+}
+.awards p{
+	font-size:90%;
+}
+.awd1{
+		position:relative;
+		left:160px;
+		display:inline-block;
+}
+.awd2{
+		position:relative;
+		left:150px;
+		display:inline-block;
+}
+.awd3{
+		position:relative;
+		left:140px;
+		bottom:16px;
+		display:inline-block;
+}
+.awd4{
+		position:relative;
+		left:130px;
+		display:inline-block;
+}
+.form{
+	width:50%;
+	display:inline-block;
+}
+.location{
+	width:50%;float:right;
+	position:relative;
+	display:inline-block;
+}
+.git{
+	height:800px;
+}
+footer{
+	background-color:#139139;
+	height:100px;
+}
+.footer_text{
+	left:100px;
+	display:inline-block;
+	position:relative;
+	left:350px;top:15px;
+	color:#ffffff;
+}
+.footer_image{
+	float:right;
+	display:inline-block;
+	position:relative;
+	right:200px;
+}
+.footer_image img{
+	margin:5px;
+}
+.form{
+	position:relative;
+	left:70px;
+}
